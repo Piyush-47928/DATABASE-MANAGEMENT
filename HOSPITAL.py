@@ -166,7 +166,7 @@ class HospitalManagementSystem:
 def main():
     host = "localhost"  # Corrected the host name
     user = "root"
-    password = "RADUPIAS"
+    password = "PASSWORD"
     database = "hospital_management"
 
     hospital_system = HospitalManagementSystem(host, user, password, database)
@@ -175,7 +175,7 @@ def main():
         print('''
             ========================================================
             ========================================================
-            -----------------WELCOME TO HOSPITAL DATABASE-----------------------------
+            -----------------WELCOME TO HOSPITAL DATABASE-----------
             ========================================================
             ========================================================
             ''')
