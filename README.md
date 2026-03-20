@@ -86,7 +86,7 @@ python HOSPITAL.py
 
 ### 🔑 Login Details
 
-Password: HOSPITAL
+Password: PASSWORD
 
 ### 📋 Menu Overview
 ```bash
