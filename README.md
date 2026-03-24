@@ -2,6 +2,7 @@
 
 ![DBMS](https://img.shields.io/badge/Database-Management-blue)
 ![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Python](https://img.shields.io/badge/Language-Python-yellow)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ---
